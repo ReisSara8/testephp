@@ -1,0 +1,16 @@
+- Usar um método mais seguro para criptografar as senhas;
+
+- Utilizar a API da Receita Federal para buscar informações através do cnpj;
+
+- Usar tokens na autentificação;
+
+- Reorganizar os códigos HTML e padronizar o visual do site;
+
+- Colocar um link para que a parte de cadastros de empresa possa ser acessado;
+
+- Terminar o formulário de cadastros de empresa;
+
+- Validar o cadastro de empresa;
+
+- Consertar o direcionamento de páginas e outros bugs.
+
